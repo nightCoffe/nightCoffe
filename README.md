@@ -5,7 +5,7 @@
 
 
 
-# My stack of technologies and tools.
+# My stack.
 
 
 |              Java               | Selenide |                Gradle                 | Junit5 | Selenoid |             Jenkins             |               IntelliJ IDEA               |                Allure Report                |               Allure Testops                |             Telegram              |
